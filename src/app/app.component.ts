@@ -10,5 +10,5 @@ import { UserComponent } from "./user/user.component";
     imports: [RouterOutlet, UserComponent]
 })
 export class AppComponent {
-  title = 'First Angular Application';
+  title = '';
 }
